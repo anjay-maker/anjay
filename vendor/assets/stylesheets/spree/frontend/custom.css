@@ -1,0 +1,11 @@
+.header_phone{
+	position:absolute;
+	top:0;
+	right:0;
+	font-weight:bold;
+	font-size:17px;
+}
+
+ul#header li .header {
+	background: rgba(33, 37, 41, 100);
+}
