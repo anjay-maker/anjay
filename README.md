@@ -1,24 +1,8 @@
-# README
+Dear,bapak Benyamin Maengkom
+pertama saya ingin berterimakasih sudah membuka github saya 
+kedua saya ingin konfirmasi bahwa ini adalah pertama kali saya upload file di github atau push
+ketiga saya sudah semaksimal mungkin belajar tetapi saya ada pertanyaan, apakah menggunakan gem spree diperbolehkan?
+keempat jika diperbolehkan saya akan merubahnya sesuai peraturan awal, menggunakan 5 module
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Best Regrads,
+Febby Pratama Putra
