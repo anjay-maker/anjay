@@ -46,7 +46,7 @@ group :test do
   gem 'webdrivers'
 end
 gem 'spree', '~> 4.0.0.rc2'
-gem 'spree_auth_devise', '~> 4.0.0.rc2'
+gem 'spree_auth_devise', '~> 4.0.1'
 gem 'spree_gateway', '~> 3.6'
  
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
